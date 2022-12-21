@@ -1,0 +1,29 @@
+https://issues.sonatype.org/secure/WelcomeToJIRA.jspa
+LJR
+@lL2630770591
+@Ll2630770591
+
+
+https://blog.csdn.net/qq_42651904/article/details/121191238
+
+
+C:\Users\haiwen>gpg
+B0A9D378E92DDDBBEA20FF5A81B648239952F081
+
+C:\Users\Administrator\.m2\wrapper\dists\apache-maven-3.8.5-bin
+账号：LJR
+密码：l2630770591
+gpg --keyserver keyserver.ubuntu.com --send-keys B0A9D378E92DDDBBEA20FF5A81B648239952F081
+
+gpg --keyserver hkp://keyserver.ubuntu.com:11371 --send-keys B0A9D378E92DDDBBEA20FF5A81B648239952F081
+gpg --keyserver keyserver.ubuntu.com --recv-keys B0A9D378E92DDDBBEA20FF5A81B648239952F081
+
+
+gpg --keyserver keyserver.ubuntu.com --recv-keys B0A9D378E92DDDBBEA20FF5A81B648239952F081
+
+
+authentication failed for https://s01.oss.sonatype.org/.jar, status: 401 Unauthorized
+
+
+https://central.sonatype.org/publish/requirements/#supply-javadoc-and-sources
+
